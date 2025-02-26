@@ -1,4 +1,4 @@
-# Mindfulness User Story
+# FitQuest User Story
 
 User Stories for Login/Registration Page
 
@@ -26,9 +26,7 @@ Users can log in with correct credentials and are redirected to their dashboard.
 
 An error message is displayed for incorrect credentials.
 
-The login page provides a "Forgot Password" option.
-
-Story Points: 3
+Story Points: 2
 
 User Story 3: Input Validation Feedback
 Title:
@@ -42,7 +40,7 @@ Real-time validation highlights invalid input fields before form submission.
 
 Disabled "Sign Up" and "Login" buttons if required fields are empty.
 
-Story Points: 2
+Story Points: 3
 
 User Story 4: Persistent User Data
 Title:
@@ -62,35 +60,35 @@ Story Points: 3
 User stories for the homepage
 User Story 1: Personalized Greeting
 Title:
-As a user, I want a personalized greeting with my name and a title, so that I feel welcomed and encouraged to meditate.
+As a user, I want a personalized greeting with my name and a title, so that I feel welcomed and encouraged to practice.
 
 Acceptance Criteria:
 
-Display “Hello, [username]” followed by the title “Find your perfect meditation.”
+Display “Hello, [username]” followed by the title “Ready to move, challenge yourself and have fun?”
 The username should be dynamically fetched and displayed upon login.
 The greeting should be visually prominent on the homepage.
 Story Points: 2
 
-User Story 2: Popular Meditation Cards
+User Story 2: Popular Exercises Cards
 Title:
-As a user, I want to see popular meditation cards, so that I can explore options based on my preferences.
+As a user, I want to see popular exercise cards, so that I can explore options based on my preferences.
 
 Acceptance Criteria:
 
-Display meditation cards with an image, title, and short description.
-Each card includes categories such as calmness, relaxation, and duration (e.g., 10 or 15 minutes).
-Users can click a card to view more details or start the meditation session.
+Display exercise cards with an image, title, and short description.
+Each card includes categories for different muscles and duration (e.g., 10 or 15 minutes).
+Users can click a card to view more details or start the exercise.
 Story Points: 3
 
-User Story 3: Daily Featured Meditation
+User Story 3: Daily Workout
 Title:
-As a user, I want a daily featured meditation, so that I can quickly access a recommended session.
+As a user, I want a daily featured workout, so that I can quickly access a recommended exercise.
 
 Acceptance Criteria:
 
-Showcase one meditation in a dedicated section with an image, title, category, and duration.
-The featured meditation updates daily based on recommendations or trending sessions.
-Users can tap the featured meditation to start the session immediately.
+Showcase one workout in a dedicated section with an image, title, category, and duration.
+The featured workout updates daily based on recommendations or trending exercises.
+Users can tap the featured exercise to start the session immediately.
 Story Points: 3
 
 User Story 4: Intuitive Navigation
@@ -111,7 +109,7 @@ As a user, I want an “About” section for each exercise, so that I can unders
 
 Acceptance Criteria:
 
-Display a brief description of the exercise, explaining its focus and stress-reducing benefits.
+Display a brief description of the exercise.
 The description should be concise yet informative, providing context for users.
 Ensure the text is visually distinct and easy to read.
 Story Points: 2
@@ -122,7 +120,7 @@ As a user, I want an “Instructions” section for each exercise, so that I can
 
 Acceptance Criteria:
 
-Provide step-by-step guidance on posture and breathing techniques for the exercise.
+Provide step-by-step guidance for completing the workout.
 Ensure the instructions are clear and structured for easy understanding.
 Include visual aids or bullet points for better readability.
 Story Points: 3
